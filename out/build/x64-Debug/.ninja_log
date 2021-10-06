@@ -1,0 +1,9 @@
+# ninja log v5
+1	744	6552002726396768	CMakeFiles/OpenCVTrialProject.dir/src/OpenCVTrialProject.cpp.obj	61d9860d8d826e6f
+745	1262	6552002731512496	out/OpenCVTrialProject.exe	d6fe2ac5c5f9e4e4
+1	653	6552007651551152	CMakeFiles/OpenCVTrialProject.dir/src/OpenCVTrialProject.cpp.obj	61d9860d8d826e6f
+654	773	6552007652545863	out/OpenCVTrialProject.exe	d6fe2ac5c5f9e4e4
+1	661	6552008575878868	CMakeFiles/OpenCVTrialProject.dir/src/OpenCVTrialProject.cpp.obj	61d9860d8d826e6f
+662	780	6552008576874108	out/OpenCVTrialProject.exe	d6fe2ac5c5f9e4e4
+0	653	6552009473977964	CMakeFiles/OpenCVTrialProject.dir/src/OpenCVTrialProject.cpp.obj	61d9860d8d826e6f
+654	769	6552009474956186	out/OpenCVTrialProject.exe	d6fe2ac5c5f9e4e4
